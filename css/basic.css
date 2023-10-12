@@ -13,8 +13,8 @@ button {
 
 section {
   max-width: 400px;
-  min-width: 360px;
-  margin: auto;
+  width: 100%;
+  margin: 0 auto;
   background: #fffcfc;
   border-radius: 15px;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
